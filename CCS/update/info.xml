@@ -1,0 +1,13 @@
+﻿<Root>
+<Project>
+<AppCode>GUI</AppCode>
+<AppName>TLS - ThatLuang Plaza Co.,Ltd</AppName>
+<Version>1.0.0.1</Version>
+<Description>
+UPDATE VERSION 1.0.0.1
+Cap nhat nut thanh toan trong phieu ban hang;
+Cap nhat tai khoan doanh thu tam tinh trong hoa don thue mat bang.
+</Description>
+<Link>http://www.petrolao.com.la/config/TLS/TLS_v1001.zip</Link>
+</Project>
+</Root>

@@ -1,0 +1,435 @@
+D:\VS\ThatLuangPlaza\DAL\bin\Debug\DAL.dll.config
+D:\VS\ThatLuangPlaza\DAL\bin\Debug\DAL.dll
+D:\VS\ThatLuangPlaza\DAL\bin\Debug\DAL.pdb
+D:\VS\ThatLuangPlaza\DAL\obj\Debug\DAL.dll
+D:\VS\ThatLuangPlaza\DAL\obj\Debug\DAL.pdb
+D:\VS\ThatLuangPlaza\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\HOCTAP\WinForm\ThatLuangPlaza\DAL\bin\Debug\DAL.dll.config
+D:\HOCTAP\WinForm\ThatLuangPlaza\DAL\bin\Debug\DAL.dll
+D:\HOCTAP\WinForm\ThatLuangPlaza\DAL\bin\Debug\DAL.pdb
+D:\HOCTAP\WinForm\ThatLuangPlaza\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\HOCTAP\WinForm\ThatLuangPlaza\DAL\obj\Debug\DAL.dll
+D:\HOCTAP\WinForm\ThatLuangPlaza\DAL\obj\Debug\DAL.pdb
+C:\Users\HONGNHUNG\Pictures\ThatLuangPlaza\DAL\bin\Debug\DAL.dll.config
+C:\Users\HONGNHUNG\Pictures\ThatLuangPlaza\DAL\bin\Debug\DAL.dll
+C:\Users\HONGNHUNG\Pictures\ThatLuangPlaza\DAL\bin\Debug\DAL.pdb
+C:\Users\HONGNHUNG\Pictures\ThatLuangPlaza\DAL\obj\Debug\DAL.dll
+C:\Users\HONGNHUNG\Pictures\ThatLuangPlaza\DAL\obj\Debug\DAL.pdb
+E:\2906 code\ThatLuangPlaza\DAL\bin\Debug\DAL.dll.config
+E:\2906 code\ThatLuangPlaza\DAL\bin\Debug\DAL.dll
+E:\2906 code\ThatLuangPlaza\DAL\bin\Debug\DAL.pdb
+E:\2906 code\ThatLuangPlaza\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\2906 code\ThatLuangPlaza\DAL\obj\Debug\DAL.dll
+E:\2906 code\ThatLuangPlaza\DAL\obj\Debug\DAL.pdb
+G:\2906 code\ThatLuangPlaza\DAL\bin\Debug\DAL.dll.config
+G:\2906 code\ThatLuangPlaza\DAL\bin\Debug\DAL.dll
+G:\2906 code\ThatLuangPlaza\DAL\bin\Debug\DAL.pdb
+G:\2906 code\ThatLuangPlaza\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\2906 code\ThatLuangPlaza\DAL\obj\Debug\DAL.dll
+G:\2906 code\ThatLuangPlaza\DAL\obj\Debug\DAL.pdb
+D:\VS\2906 code\ThatLuangPlaza\DAL\bin\Debug\DAL.dll.config
+D:\VS\2906 code\ThatLuangPlaza\DAL\bin\Debug\DAL.dll
+D:\VS\2906 code\ThatLuangPlaza\DAL\bin\Debug\DAL.pdb
+D:\VS\2906 code\ThatLuangPlaza\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\VS\2906 code\ThatLuangPlaza\DAL\obj\Debug\DAL.dll
+D:\VS\2906 code\ThatLuangPlaza\DAL\obj\Debug\DAL.pdb
+D:\VS\2906 code\ThatLuangPlaza - Copy (2)\DAL\bin\Debug\DAL.dll.config
+D:\VS\2906 code\ThatLuangPlaza - Copy (2)\DAL\bin\Debug\DAL.dll
+D:\VS\2906 code\ThatLuangPlaza - Copy (2)\DAL\bin\Debug\DAL.pdb
+D:\VS\2906 code\ThatLuangPlaza - Copy (2)\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\VS\2906 code\ThatLuangPlaza - Copy (2)\DAL\obj\Debug\DAL.dll
+D:\VS\2906 code\ThatLuangPlaza - Copy (2)\DAL\obj\Debug\DAL.pdb
+D:\VS\08072017\ThatLuangPlaza\DAL\bin\Debug\DAL.dll.config
+D:\VS\08072017\ThatLuangPlaza\DAL\bin\Debug\DAL.dll
+D:\VS\08072017\ThatLuangPlaza\DAL\bin\Debug\DAL.pdb
+D:\VS\08072017\ThatLuangPlaza\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\VS\08072017\ThatLuangPlaza\DAL\obj\Debug\DAL.dll
+D:\VS\08072017\ThatLuangPlaza\DAL\obj\Debug\DAL.pdb
+D:\VS\ban skin\ThatLuangPlaza\DAL\bin\Debug\DAL.dll.config
+D:\VS\ban skin\ThatLuangPlaza\DAL\bin\Debug\DAL.dll
+D:\VS\ban skin\ThatLuangPlaza\DAL\bin\Debug\DAL.pdb
+D:\VS\ban skin\ThatLuangPlaza\DAL\obj\Debug\DAL.dll
+D:\VS\ban skin\ThatLuangPlaza\DAL\obj\Debug\DAL.pdb
+D:\HOCTAP\WinForm\NEW\ThatLuangPlaza\DAL\bin\Debug\DAL.dll.config
+D:\HOCTAP\WinForm\NEW\ThatLuangPlaza\DAL\bin\Debug\DAL.dll
+D:\HOCTAP\WinForm\NEW\ThatLuangPlaza\DAL\bin\Debug\DAL.pdb
+D:\HOCTAP\WinForm\NEW\ThatLuangPlaza\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\HOCTAP\WinForm\NEW\ThatLuangPlaza\DAL\obj\Debug\DAL.dll
+D:\HOCTAP\WinForm\NEW\ThatLuangPlaza\DAL\obj\Debug\DAL.pdb
+D:\VS\NEW\ThatLuangPlaza\DAL\bin\Debug\DAL.dll.config
+D:\VS\NEW\ThatLuangPlaza\DAL\bin\Debug\DAL.dll
+D:\VS\NEW\ThatLuangPlaza\DAL\bin\Debug\DAL.pdb
+D:\VS\NEW\ThatLuangPlaza\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\VS\NEW\ThatLuangPlaza\DAL\obj\Debug\DAL.dll
+D:\VS\NEW\ThatLuangPlaza\DAL\obj\Debug\DAL.pdb
+D:\VS\NEW\04082017\ThatLuangPlaza - Report\DAL\bin\Debug\DAL.dll.config
+D:\VS\NEW\04082017\ThatLuangPlaza - Report\DAL\bin\Debug\DAL.dll
+D:\VS\NEW\04082017\ThatLuangPlaza - Report\DAL\bin\Debug\DAL.pdb
+D:\VS\NEW\04082017\ThatLuangPlaza - Report\DAL\obj\Debug\DAL.dll
+D:\VS\NEW\04082017\ThatLuangPlaza - Report\DAL\obj\Debug\DAL.pdb
+D:\VS\NEW\04082017\ThatLuangPlaza - Report\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\VS\NEW\09092017\ThatLuangPlaza - Report\DAL\bin\Debug\DAL.dll.config
+D:\VS\NEW\09092017\ThatLuangPlaza - Report\DAL\bin\Debug\DAL.dll
+D:\VS\NEW\09092017\ThatLuangPlaza - Report\DAL\bin\Debug\DAL.pdb
+D:\VS\NEW\09092017\ThatLuangPlaza - Report\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\VS\NEW\09092017\ThatLuangPlaza - Report\DAL\obj\Debug\DAL.dll
+D:\VS\NEW\09092017\ThatLuangPlaza - Report\DAL\obj\Debug\DAL.pdb
+D:\VS\Phần mềm CHXD của petroLao\18092017\ThatLuangPlaza - Report\DAL\bin\Debug\DAL.dll.config
+D:\VS\Phần mềm CHXD của petroLao\18092017\ThatLuangPlaza - Report\DAL\bin\Debug\DAL.dll
+D:\VS\Phần mềm CHXD của petroLao\18092017\ThatLuangPlaza - Report\DAL\bin\Debug\DAL.pdb
+D:\VS\Phần mềm CHXD của petroLao\18092017\ThatLuangPlaza - Report\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\VS\Phần mềm CHXD của petroLao\18092017\ThatLuangPlaza - Report\DAL\obj\Debug\DAL.dll
+D:\VS\Phần mềm CHXD của petroLao\18092017\ThatLuangPlaza - Report\DAL\obj\Debug\DAL.pdb
+D:\HOCTAP\WinForm\18092017\ThatLuangPlaza - Report\DAL\bin\Debug\DAL.dll.config
+D:\HOCTAP\WinForm\18092017\ThatLuangPlaza - Report\DAL\bin\Debug\DAL.dll
+D:\HOCTAP\WinForm\18092017\ThatLuangPlaza - Report\DAL\bin\Debug\DAL.pdb
+D:\HOCTAP\WinForm\18092017\ThatLuangPlaza - Report\DAL\obj\Debug\DAL.dll
+D:\HOCTAP\WinForm\18092017\ThatLuangPlaza - Report\DAL\obj\Debug\DAL.pdb
+D:\HOCTAP\WinForm\19092017\ThatLuangPlaza - Report\DAL\bin\Debug\DAL.dll.config
+D:\HOCTAP\WinForm\19092017\ThatLuangPlaza - Report\DAL\bin\Debug\DAL.dll
+D:\HOCTAP\WinForm\19092017\ThatLuangPlaza - Report\DAL\bin\Debug\DAL.pdb
+D:\HOCTAP\WinForm\19092017\ThatLuangPlaza - Report\DAL\obj\Debug\DAL.dll
+D:\HOCTAP\WinForm\19092017\ThatLuangPlaza - Report\DAL\obj\Debug\DAL.pdb
+F:\New folder\22092017\ThatLuangPlaza - Report\DAL\bin\Debug\DAL.dll.config
+F:\New folder\22092017\ThatLuangPlaza - Report\DAL\bin\Debug\DAL.dll
+F:\New folder\22092017\ThatLuangPlaza - Report\DAL\bin\Debug\DAL.pdb
+F:\New folder\22092017\ThatLuangPlaza - Report\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\New folder\22092017\ThatLuangPlaza - Report\DAL\obj\Debug\DAL.dll
+F:\New folder\22092017\ThatLuangPlaza - Report\DAL\obj\Debug\DAL.pdb
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\DAL\bin\Debug\DAL.dll.config
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\DAL\bin\Debug\DAL.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\DAL\bin\Debug\DAL.pdb
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\DAL\obj\Debug\DAL.dll
+D:\HOCTAP\WinForm\New folder\22092017\ThatLuangPlaza - Report\DAL\obj\Debug\DAL.pdb
+D:\VS\Phần mềm CHXD của petroLao\26092017\22092017\ThatLuangPlaza - Report\DAL\bin\Debug\DAL.dll.config
+D:\VS\Phần mềm CHXD của petroLao\26092017\22092017\ThatLuangPlaza - Report\DAL\bin\Debug\DAL.dll
+D:\VS\Phần mềm CHXD của petroLao\26092017\22092017\ThatLuangPlaza - Report\DAL\bin\Debug\DAL.pdb
+D:\VS\Phần mềm CHXD của petroLao\26092017\22092017\ThatLuangPlaza - Report\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\VS\Phần mềm CHXD của petroLao\26092017\22092017\ThatLuangPlaza - Report\DAL\obj\Debug\DAL.dll
+D:\VS\Phần mềm CHXD của petroLao\26092017\22092017\ThatLuangPlaza - Report\DAL\obj\Debug\DAL.pdb
+D:\VS\Phần mềm CHXD của petroLao\02102017\PLS\DAL\bin\Debug\DAL.dll.config
+D:\VS\Phần mềm CHXD của petroLao\02102017\PLS\DAL\bin\Debug\DAL.dll
+D:\VS\Phần mềm CHXD của petroLao\02102017\PLS\DAL\bin\Debug\DAL.pdb
+D:\VS\Phần mềm CHXD của petroLao\02102017\PLS\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\VS\Phần mềm CHXD của petroLao\02102017\PLS\DAL\obj\Debug\DAL.dll
+D:\VS\Phần mềm CHXD của petroLao\02102017\PLS\DAL\obj\Debug\DAL.pdb
+D:\HOCTAP\WinForm\03102017\PLS\DAL\bin\Debug\DAL.dll.config
+D:\HOCTAP\WinForm\03102017\PLS\DAL\bin\Debug\DAL.dll
+D:\HOCTAP\WinForm\03102017\PLS\DAL\bin\Debug\DAL.pdb
+D:\HOCTAP\WinForm\03102017\PLS\DAL\obj\Debug\DAL.dll
+D:\HOCTAP\WinForm\03102017\PLS\DAL\obj\Debug\DAL.pdb
+D:\HOCTAP\WinForm\03102017\PLS\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\HOCTAP\WinForm\12102017\03102017\PLS\DAL\bin\Debug\DAL.dll.config
+D:\HOCTAP\WinForm\12102017\03102017\PLS\DAL\bin\Debug\DAL.dll
+D:\HOCTAP\WinForm\12102017\03102017\PLS\DAL\bin\Debug\DAL.pdb
+D:\HOCTAP\WinForm\12102017\03102017\PLS\DAL\obj\Debug\DAL.dll
+D:\HOCTAP\WinForm\12102017\03102017\PLS\DAL\obj\Debug\DAL.pdb
+D:\HOCTAP\WinForm\TLS\DAL\bin\Debug\DAL.dll.config
+D:\HOCTAP\WinForm\TLS\DAL\bin\Debug\DAL.dll
+D:\HOCTAP\WinForm\TLS\DAL\bin\Debug\DAL.pdb
+D:\HOCTAP\WinForm\TLS\DAL\obj\Debug\DAL.dll
+D:\HOCTAP\WinForm\TLS\DAL\obj\Debug\DAL.pdb
+E:\Solution\winform\Code TLS\TLS\DAL\bin\Debug\DAL.dll.config
+E:\Solution\winform\Code TLS\TLS\DAL\bin\Debug\DAL.dll
+E:\Solution\winform\Code TLS\TLS\DAL\bin\Debug\DAL.pdb
+E:\Solution\winform\Code TLS\TLS\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\Solution\winform\Code TLS\TLS\DAL\obj\Debug\DAL.dll
+E:\Solution\winform\Code TLS\TLS\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code TLS\TLS\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code TLS\TLS\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code TLS\TLS\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code TLS\TLS\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code TLS\TLS\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code TLS\TLS\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Solution\winform\TLS\Code TLS\TLS\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\TLS\Code TLS\TLS\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\TLS\Code TLS\TLS\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\TLS\Code TLS\TLS\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Solution\winform\TLS\Code TLS\TLS\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\TLS\Code TLS\TLS\DAL\obj\Debug\DAL.pdb
+E:\HOCTAP\TEST\tls moi\TLS\DAL\bin\Debug\DAL.dll.config
+E:\HOCTAP\TEST\tls moi\TLS\DAL\bin\Debug\DAL.dll
+E:\HOCTAP\TEST\tls moi\TLS\DAL\bin\Debug\DAL.pdb
+E:\HOCTAP\TEST\tls moi\TLS\DAL\obj\Debug\DAL.dll
+E:\HOCTAP\TEST\tls moi\TLS\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\TLS\Code TLS\Tháng 2\28022018\tls moi\TLS\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\TLS\Code TLS\Tháng 2\28022018\tls moi\TLS\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\TLS\Code TLS\Tháng 2\28022018\tls moi\TLS\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\TLS\Code TLS\Tháng 2\28022018\tls moi\TLS\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Solution\winform\TLS\Code TLS\Tháng 2\28022018\tls moi\TLS\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\TLS\Code TLS\Tháng 2\28022018\tls moi\TLS\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\BCD\CODE\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\BCD\CODE\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\BCD\CODE\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\BCD\CODE\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Solution\winform\BCD\CODE\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\BCD\CODE\DAL\obj\Debug\DAL.pdb
+D:\HOCTAP\TEST\CODE\DAL\bin\Debug\DAL.dll.config
+D:\HOCTAP\TEST\CODE\DAL\bin\Debug\DAL.dll
+D:\HOCTAP\TEST\CODE\DAL\bin\Debug\DAL.pdb
+D:\HOCTAP\TEST\CODE\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\HOCTAP\TEST\CODE\DAL\obj\Debug\DAL.dll
+D:\HOCTAP\TEST\CODE\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\BCD\moi04052018\CODE\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\BCD\moi04052018\CODE\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\BCD\moi04052018\CODE\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\BCD\moi04052018\CODE\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Solution\winform\BCD\moi04052018\CODE\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\BCD\moi04052018\CODE\DAL\obj\Debug\DAL.pdb
+C:\Users\truon\Desktop\CODE\DAL\bin\Debug\DAL.dll.config
+C:\Users\truon\Desktop\CODE\DAL\bin\Debug\DAL.dll
+C:\Users\truon\Desktop\CODE\DAL\bin\Debug\DAL.pdb
+C:\Users\truon\Desktop\CODE\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\truon\Desktop\CODE\DAL\obj\Debug\DAL.dll
+C:\Users\truon\Desktop\CODE\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\BCD\Tháng 05\07052018\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\BCD\Tháng 05\07052018\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\BCD\Tháng 05\07052018\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\BCD\Tháng 05\07052018\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\BCD\Tháng 05\07052018\DAL\obj\Debug\DAL.pdb
+D:\HOCTAP\TEST\Code CT new260518\DAL\bin\Debug\DAL.dll.config
+D:\HOCTAP\TEST\Code CT new260518\DAL\bin\Debug\DAL.dll
+D:\HOCTAP\TEST\Code CT new260518\DAL\bin\Debug\DAL.pdb
+D:\HOCTAP\TEST\Code CT new260518\DAL\obj\Debug\DAL.dll
+D:\HOCTAP\TEST\Code CT new260518\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\BCD\Tháng 05\28052018\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\BCD\Tháng 05\28052018\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\BCD\Tháng 05\28052018\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\BCD\Tháng 05\28052018\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\BCD\Tháng 05\28052018\DAL\bin\Debug\DAL.pdb
+D:\HOCTAP\TEST\Congtrinh\28052018\DAL\bin\Debug\DAL.dll.config
+D:\HOCTAP\TEST\Congtrinh\28052018\DAL\bin\Debug\DAL.dll
+D:\HOCTAP\TEST\Congtrinh\28052018\DAL\bin\Debug\DAL.pdb
+D:\HOCTAP\TEST\Congtrinh\28052018\DAL\obj\Debug\DAL.dll
+D:\HOCTAP\TEST\Congtrinh\28052018\DAL\obj\Debug\DAL.pdb
+D:\HOCTAP\TEST\Code CCS PhanQuyen moi\DAL\bin\Debug\DAL.dll.config
+D:\HOCTAP\TEST\Code CCS PhanQuyen moi\DAL\bin\Debug\DAL.dll
+D:\HOCTAP\TEST\Code CCS PhanQuyen moi\DAL\bin\Debug\DAL.pdb
+D:\HOCTAP\TEST\Code CCS PhanQuyen moi\DAL\obj\Debug\DAL.dll
+D:\HOCTAP\TEST\Code CCS PhanQuyen moi\DAL\obj\Debug\DAL.pdb
+G:\BACKUP CODE 04072018\Code CCS PhanQuyen moi\DAL\bin\Debug\DAL.dll.config
+G:\BACKUP CODE 04072018\Code CCS PhanQuyen moi\DAL\bin\Debug\DAL.dll
+G:\BACKUP CODE 04072018\Code CCS PhanQuyen moi\DAL\bin\Debug\DAL.pdb
+G:\BACKUP CODE 04072018\Code CCS PhanQuyen moi\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\BACKUP CODE 04072018\Code CCS PhanQuyen moi\DAL\obj\Debug\DAL.dll
+G:\BACKUP CODE 04072018\Code CCS PhanQuyen moi\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\BCD\Thang 07\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\BCD\Thang 07\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\BCD\Thang 07\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\BCD\Thang 07\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\BCD\Thang 07\DAL\obj\Debug\DAL.pdb
+D:\HOCTAP\TEST\Code CCS\Thang 8\DAL\bin\Debug\DAL.dll.config
+D:\HOCTAP\TEST\Code CCS\Thang 8\DAL\bin\Debug\DAL.dll
+D:\HOCTAP\TEST\Code CCS\Thang 8\DAL\bin\Debug\DAL.pdb
+D:\HOCTAP\TEST\Code CCS\Thang 8\DAL\obj\Debug\DAL.dll
+D:\HOCTAP\TEST\Code CCS\Thang 8\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\Tháng 09\06092018\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\Tháng 09\06092018\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\Tháng 09\06092018\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\Tháng 09\06092018\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\Tháng 09\06092018\DAL\obj\Debug\DAL.pdb
+D:\COMPANY\CODE\WINFORM\CCS\Tháng 9\11092018\DAL\bin\Debug\DAL.dll.config
+D:\COMPANY\CODE\WINFORM\CCS\Tháng 9\11092018\DAL\bin\Debug\DAL.dll
+D:\COMPANY\CODE\WINFORM\CCS\Tháng 9\11092018\DAL\bin\Debug\DAL.pdb
+D:\COMPANY\CODE\WINFORM\CCS\Tháng 9\11092018\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\COMPANY\CODE\WINFORM\CCS\Tháng 9\11092018\DAL\obj\Debug\DAL.dll
+D:\COMPANY\CODE\WINFORM\CCS\Tháng 9\11092018\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\Tháng 09\19092018\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\Tháng 09\19092018\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\Tháng 09\19092018\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\Tháng 09\19092018\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\Tháng 09\19092018\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\Tháng 09\19092018\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCS_ok\Tháng 10\16102018\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\Tháng 10\16102018\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\Tháng 10\16102018\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\Tháng 10\16102018\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCS_ok\Tháng 10\16102018\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\Tháng 10\16102018\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\Tháng 10\20102018-v2\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\Tháng 10\20102018-v2\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\Tháng 10\20102018-v2\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\Tháng 10\20102018-v2\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\Tháng 10\20102018-v2\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\Tháng 10\20102018-v2\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCS_ok\Tháng 11\24112018\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\Tháng 11\24112018\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\Tháng 11\24112018\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\Tháng 11\24112018\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCS_ok\Tháng 11\24112018\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\Tháng 11\24112018\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\Tháng 11\28112018\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\Tháng 11\28112018\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\Tháng 11\28112018\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\Tháng 11\28112018\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCS_ok\Tháng 11\28112018\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\Tháng 11\28112018\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\Tháng 12\05122018\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\Tháng 12\05122018\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\Tháng 12\05122018\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\Tháng 12\05122018\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\Tháng 12\05122018\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\Tháng 12\06122018\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\Tháng 12\06122018\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\Tháng 12\06122018\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\Tháng 12\06122018\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCS_ok\Tháng 12\06122018\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\Tháng 12\06122018\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\Tháng 12\07122018\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\Tháng 12\07122018\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\Tháng 12\07122018\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\Tháng 12\07122018\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\Tháng 12\07122018\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\Tháng 12\17122018\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\Tháng 12\17122018\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\Tháng 12\17122018\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\Tháng 12\17122018\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\Tháng 12\17122018\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\Tháng 012019\17122018\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\Tháng 012019\17122018\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\Tháng 012019\17122018\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\Tháng 012019\17122018\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\Tháng 012019\17122018\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\Tháng 012019\17122018\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\COMPANY\CODE\WINFORM\CCS\01 2019\17012019\DAL\bin\Debug\DAL.dll.config
+D:\COMPANY\CODE\WINFORM\CCS\01 2019\17012019\DAL\bin\Debug\DAL.dll
+D:\COMPANY\CODE\WINFORM\CCS\01 2019\17012019\DAL\bin\Debug\DAL.pdb
+D:\COMPANY\CODE\WINFORM\CCS\01 2019\17012019\DAL\obj\Debug\DAL.dll
+D:\COMPANY\CODE\WINFORM\CCS\01 2019\17012019\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 012019\21012019\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 012019\21012019\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 012019\21012019\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 012019\21012019\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 012019\21012019\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 012019\21012019\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 02\19022019\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 02\19022019\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 02\19022019\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 02\19022019\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 02\19022019\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 02\19022019\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 02\22022019\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 02\22022019\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 02\22022019\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 02\22022019\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 02\22022019\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 02\22022019\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 03\04032019\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 03\04032019\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 03\04032019\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 03\04032019\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 03\04032019\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 03\04032019 - Copy\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 03\04032019 - Copy\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 03\04032019 - Copy\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 03\04032019 - Copy\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 03\04032019 - Copy\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 03\04032019 - Copy\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 03\05032019\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 03\05032019\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 03\05032019\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 03\05032019\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 03\05032019\DAL\obj\Debug\DAL.pdb
+D:\COMPANY\CODE\WINFORM\CCS\03 2019\03\05032019\DAL\bin\Debug\DAL.dll.config
+D:\COMPANY\CODE\WINFORM\CCS\03 2019\03\05032019\DAL\bin\Debug\DAL.dll
+D:\COMPANY\CODE\WINFORM\CCS\03 2019\03\05032019\DAL\bin\Debug\DAL.pdb
+D:\COMPANY\CODE\WINFORM\CCS\03 2019\03\05032019\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\COMPANY\CODE\WINFORM\CCS\03 2019\03\05032019\DAL\obj\Debug\DAL.dll
+D:\COMPANY\CODE\WINFORM\CCS\03 2019\03\05032019\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 03\28032019\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 03\28032019\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 03\28032019\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 03\28032019\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 03\28032019\DAL\obj\Debug\DAL.pdb
+D:\COMPANY\CODE\WINFORM\CCS\04 2019\01042019\28032019\DAL\bin\Debug\DAL.dll.config
+D:\COMPANY\CODE\WINFORM\CCS\04 2019\01042019\28032019\DAL\bin\Debug\DAL.dll
+D:\COMPANY\CODE\WINFORM\CCS\04 2019\01042019\28032019\DAL\bin\Debug\DAL.pdb
+D:\COMPANY\CODE\WINFORM\CCS\04 2019\01042019\28032019\DAL\obj\Debug\DAL.dll
+D:\COMPANY\CODE\WINFORM\CCS\04 2019\01042019\28032019\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 04\01042019\28032019\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 04\01042019\28032019\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 04\01042019\28032019\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 04\01042019\28032019\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 04\01042019\28032019\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 04\01042019\28032019\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 04\23042019\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 04\23042019\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 04\23042019\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 04\23042019\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 04\23042019\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 04\23042019\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 04\24042019\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 04\24042019\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 04\24042019\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 04\24042019\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 04\24042019\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 05\13052019\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 05\13052019\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 05\13052019\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 05\13052019\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 05\13052019\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 05\25052019\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 05\25052019\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 05\25052019\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 05\25052019\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 05\25052019\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 05\25052019\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\COMPANY\CODE\WINFORM\CCS\thang 6 2019\25052019\DAL\bin\Debug\DAL.dll.config
+D:\COMPANY\CODE\WINFORM\CCS\thang 6 2019\25052019\DAL\bin\Debug\DAL.dll
+D:\COMPANY\CODE\WINFORM\CCS\thang 6 2019\25052019\DAL\bin\Debug\DAL.pdb
+D:\COMPANY\CODE\WINFORM\CCS\thang 6 2019\25052019\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\COMPANY\CODE\WINFORM\CCS\thang 6 2019\25052019\DAL\obj\Debug\DAL.dll
+D:\COMPANY\CODE\WINFORM\CCS\thang 6 2019\25052019\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 06\10062019\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 06\10062019\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 06\10062019\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 06\10062019\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 06\10062019\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 06\10062019\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 06\25062019\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 06\25062019\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 06\25062019\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 06\25062019\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 06\25062019\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 06\25062019\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\COMPANY\CODE\WINFORM\CCS\07 2019\25062019\DAL\bin\Debug\DAL.dll.config
+D:\COMPANY\CODE\WINFORM\CCS\07 2019\25062019\DAL\bin\Debug\DAL.dll
+D:\COMPANY\CODE\WINFORM\CCS\07 2019\25062019\DAL\bin\Debug\DAL.pdb
+D:\COMPANY\CODE\WINFORM\CCS\07 2019\25062019\DAL\obj\Debug\DAL.dll
+D:\COMPANY\CODE\WINFORM\CCS\07 2019\25062019\DAL\obj\Debug\DAL.pdb
+D:\COMPANY\CODE\WINFORM\CCS\07 2019\25062019\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCS_ok\2019\Thang 07\29072019\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\2019\Thang 07\29072019\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Thang 07\29072019\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Thang 07\29072019\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Thang 07\29072019\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Thang 07\29072019\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\COMPANY\CODE\WINFORM\CCS\08 2019\01082019\DAL\bin\Debug\DAL.dll.config
+D:\COMPANY\CODE\WINFORM\CCS\08 2019\01082019\DAL\bin\Debug\DAL.dll
+D:\COMPANY\CODE\WINFORM\CCS\08 2019\01082019\DAL\bin\Debug\DAL.pdb
+D:\COMPANY\CODE\WINFORM\CCS\08 2019\01082019\DAL\obj\Debug\DAL.dll
+D:\COMPANY\CODE\WINFORM\CCS\08 2019\01082019\DAL\obj\Debug\DAL.pdb
+D:\COMPANY\CODE\WINFORM\CCS\08 2019\01082019\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 08\08082019\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 08\08082019\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 08\08082019\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 08\08082019\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 08\08082019\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 08\08082019\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 08\20082019\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 08\20082019\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 08\20082019\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 08\20082019\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 08\20082019\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 08\20082019\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 09\13092019\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 09\13092019\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 09\13092019\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 09\13092019\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Tháng 09\13092019\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Thang 10\24102019\DAL\bin\Debug\DAL.dll.config
+F:\Solution\winform\Code\CCS_ok\2019\Thang 10\24102019\DAL\bin\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Thang 10\24102019\DAL\bin\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Thang 10\24102019\DAL\obj\Debug\DAL.dll
+F:\Solution\winform\Code\CCS_ok\2019\Thang 10\24102019\DAL\obj\Debug\DAL.pdb
+F:\Solution\winform\Code\CCS_ok\2019\Thang 10\24102019\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

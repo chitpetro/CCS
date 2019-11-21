@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EB68A4AA-5983-4201-82AC-F3BDD7D30971}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BUS</RootNamespace>
+    <AssemblyName>BUS</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Biencucbo.cs" />
+    <Compile Include="c_dutoan_pnhap.cs" />
+    <Compile Include="c_hopdongmuaxe.cs" />
+    <Compile Include="c_tdchuyentien.cs" />
+    <Compile Include="c_theodoitt_cpk.cs" />
+    <Compile Include="c_theodoitt_cpm.cs" />
+    <Compile Include="c_theodoitt_cpvt.cs" />
+    <Compile Include="c_transport.cs" />
+    <Compile Include="c_cavet.cs" />
+    <Compile Include="c_lephididuong.cs" />
+    <Compile Include="c_tamnhaptaixuat.cs" />
+    <Compile Include="c_giaydiduong.cs" />
+    <Compile Include="c_baohiem.cs" />
+    <Compile Include="c_dangkiem.cs" />
+    <Compile Include="data_phuongtien.cs" />
+    <Compile Include="Excel\Application.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="t_dmchucvu.cs" />
+    <Compile Include="t_chuyendoi.cs" />
+    <Compile Include="t_chucnang.cs" />
+    <Compile Include="t_congviec.cs" />
+    <Compile Include="t_chamcongnv.cs" />
+    <Compile Include="t_dieuchuyenpt.cs" />
+    <Compile Include="t_pxmloaisp.cs" />
+    <Compile Include="t_pxmnhapkhoNB.cs" />
+    <Compile Include="t_pxmnhapkho.cs" />
+    <Compile Include="t_pxmsanpham.cs" />
+    <Compile Include="t_pxmxuatkhoNB.cs" />
+    <Compile Include="t_pxmxuatkho.cs" />
+    <Compile Include="t_pxm_doituong.cs" />
+    <Compile Include="t_pxm_nhomdt.cs" />
+    <Compile Include="t_todatatable.cs" />
+    <Compile Include="t_lshoso.cs" />
+    <Compile Include="t_nhanvienlaixe.cs" />
+    <Compile Include="t_duyeths.cs" />
+    <Compile Include="t_hopdong_cdt.cs" />
+    <Compile Include="t_lichsu_phuongtien.cs" />
+    <Compile Include="t_loaicpm.cs" />
+    <Compile Include="c_dmchiphi.cs" />
+    <Compile Include="t_loainc.cs" />
+    <Compile Include="t_loaihd.cs" />
+    <Compile Include="t_loaict.cs" />
+    <Compile Include="t_khuvuc.cs" />
+    <Compile Include="t_loaivb.cs" />
+    <Compile Include="t_nhomphuongtien.cs" />
+    <Compile Include="t_cpmay.cs" />
+    <Compile Include="t_pchi.cs" />
+    <Compile Include="t_phuongtien.cs" />
+    <Compile Include="t_pnhap.cs" />
+    <Compile Include="t_sanpham.cs" />
+    <Compile Include="t_themcongtrinh.cs" />
+    <Compile Include="t_history.cs" />
+    <Compile Include="t_hopdong.cs" />
+    <Compile Include="t_nhomdoituong.cs" />
+    <Compile Include="t_account.cs" />
+    <Compile Include="t_doituong.cs" />
+    <Compile Include="t_donvi.cs" />
+    <Compile Include="ta_skin.cs" />
+    <Compile Include="t_skinabc.cs" />
+    <Compile Include="t_theodoiphuongtien.cs" />
+    <Compile Include="t_tiente.cs" />
+    <Compile Include="t_tinhtrang.cs" />
+    <Compile Include="t_tudong.cs" />
+    <Compile Include="t_vanbanden.cs" />
+    <Compile Include="t_vanbandi.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{e079dbc6-30af-4e22-ac04-10171dc49294}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="bin\Debug\BUS.dll.config" />
+    <None Include="bin\Release\BUS.dll.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\BUS.dll" />
+    <Content Include="bin\Debug\BUS.pdb" />
+    <Content Include="bin\Debug\DAL.dll" />
+    <Content Include="bin\Debug\DAL.pdb" />
+    <Content Include="bin\Release\BUS.dll" />
+    <Content Include="bin\Release\BUS.pdb" />
+    <Content Include="bin\Release\DAL.dll" />
+    <Content Include="bin\Release\DAL.pdb" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
