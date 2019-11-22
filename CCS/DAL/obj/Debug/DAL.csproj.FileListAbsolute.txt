@@ -433,3 +433,9 @@ F:\Solution\winform\Code\CCS_ok\2019\Thang 10\24102019\DAL\bin\Debug\DAL.pdb
 F:\Solution\winform\Code\CCS_ok\2019\Thang 10\24102019\DAL\obj\Debug\DAL.dll
 F:\Solution\winform\Code\CCS_ok\2019\Thang 10\24102019\DAL\obj\Debug\DAL.pdb
 F:\Solution\winform\Code\CCS_ok\2019\Thang 10\24102019\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Solution\GIT\CCS\CCS\DAL\bin\Debug\DAL.dll.config
+F:\Solution\GIT\CCS\CCS\DAL\bin\Debug\DAL.dll
+F:\Solution\GIT\CCS\CCS\DAL\bin\Debug\DAL.pdb
+F:\Solution\GIT\CCS\CCS\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Solution\GIT\CCS\CCS\DAL\obj\Debug\DAL.dll
+F:\Solution\GIT\CCS\CCS\DAL\obj\Debug\DAL.pdb

@@ -38,7 +38,7 @@ namespace GUI.frm
                 saveFile.FilterIndex = 1;
                 saveFile.RestoreDirectory = true;
                 saveFile.DefaultExt = "xls";
-                saveFile.Filter = "*.xls|";
+                saveFile.Filter = "|*.xls";
                 
                 saveFile.Title = "Chọn nơi muốn xuất file";
                 var file = "";

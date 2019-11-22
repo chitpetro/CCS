@@ -624,3 +624,11 @@ F:\Solution\winform\Code\CCS_ok\2019\Thang 10\24102019\BUS\bin\Debug\DAL.pdb
 F:\Solution\winform\Code\CCS_ok\2019\Thang 10\24102019\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
 F:\Solution\winform\Code\CCS_ok\2019\Thang 10\24102019\BUS\obj\Debug\BUS.dll
 F:\Solution\winform\Code\CCS_ok\2019\Thang 10\24102019\BUS\obj\Debug\BUS.pdb
+F:\Solution\GIT\CCS\CCS\BUS\bin\Debug\BUS.dll.config
+F:\Solution\GIT\CCS\CCS\BUS\bin\Debug\BUS.dll
+F:\Solution\GIT\CCS\CCS\BUS\bin\Debug\BUS.pdb
+F:\Solution\GIT\CCS\CCS\BUS\bin\Debug\DAL.dll
+F:\Solution\GIT\CCS\CCS\BUS\bin\Debug\DAL.pdb
+F:\Solution\GIT\CCS\CCS\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Solution\GIT\CCS\CCS\BUS\obj\Debug\BUS.dll
+F:\Solution\GIT\CCS\CCS\BUS\obj\Debug\BUS.pdb
